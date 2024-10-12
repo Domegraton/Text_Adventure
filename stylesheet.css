@@ -1,5 +1,7 @@
 h1 {
     color: white;
+    text-align: center;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
 }
 .button {
 margin-left: 50%;
